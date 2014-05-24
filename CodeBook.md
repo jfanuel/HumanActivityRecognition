@@ -69,7 +69,7 @@ Names:
 		
 		jerk
 				the body linear acceleration and angular velocity were derived in time
-				to obtain Jerk signals which describes the changes of accelerations.
+				to obtain Jerk signals which describe the changes of accelerations.
 				Jerk is thus a measure of how fast the magnitude of the acceleration changes.
 				
 	Values
