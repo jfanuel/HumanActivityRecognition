@@ -20,8 +20,8 @@ II. Observation variables
 
 The observation variables are derived from the so-called "features" of the source data.
 The current section will refer to those features, but the reader who would like to get
-a better understanding of what they are and how they are computed should pay a visit of
-the web sites :
+a better understanding of what they are and how they are computed should pay a visit to
+the web site :
 	http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 and/or consult the following papers:
 	https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-122.pdf
